@@ -10,6 +10,8 @@ nosetests.xml
 coverage.xml
 *.cover
 .pytest_cache/
+.vscode/
+.vscode
 # Environments
 venv/
 env/
