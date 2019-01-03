@@ -32,5 +32,5 @@
 1. Signup to [coveralls](https://coveralls.io) with Github
 2. Accept the Authorization of Travis CI. You’ll be redirected to GitHub.
 3. Add a `Git Repo` on `coveralls`
-4. add `.coveralls.yml` file to the project. Follow the next steps to add add the travis key [Next Step](https://coveralls.io/github/kayondo-edward/python_test_coverage)
+4. add `.coveralls.yml` file to the project. Follow the next steps to add add the travis key [Learn More](https://medium.com/the-code-review/add-badges-for-travisci-coveralls-and-code-climate-to-your-readme-ruby-6d27caad74ed)
 5. Commit and push, to trigger coveralls
