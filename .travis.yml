@@ -4,6 +4,10 @@ python:
 # command to install dependencies
 install:
   - pip install -r requirements.txt
-  - pip install .
+  - pip install coveralls
 # command to run tests
-script: pytest
+script: 
+  - python numbers.py cov
+
+after_success:
+  coveralls
