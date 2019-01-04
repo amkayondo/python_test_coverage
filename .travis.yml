@@ -4,7 +4,7 @@ Identify language and version
         - "3.6"
     # command to install dependencies
     install:
-        - pip install -r requirements.txt
+        - pip install -r require.txt
         - pip install pytest
         - pip install pytest-cov
         - pip install coveralls
