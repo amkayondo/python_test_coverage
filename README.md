@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/kayondo-edward/python_test_coverage.svg?branch=master)](https://travis-ci.org/kayondo-edward/python_test_coverage)
 
 ### steps to get you started
-
+## Here is how it Work
 ## Step One (Setting up travis)
 1. Signup to [travis](travis-ci.com) with Github
 2. Accept the Authorization of Travis CI. You’ll be redirected to GitHub.
